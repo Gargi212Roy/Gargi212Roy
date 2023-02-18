@@ -40,11 +40,11 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
 
 ## 🔥 Github Stats
 
-<a href="https://manganato.com/manga-ta955935"><img align="right" width="48%" src="https://i.imgur.com/5YRvKCt.jpeg" alt="Set your heart on fire" title="Gargi wants you to go over the journey of a thousand emotions in Your Lie In April " /></a>
+<a href="https://manganato.com/manga-ta955935"><img align="right" width="44%" src="https://i.imgur.com/5YRvKCt.jpeg" alt="Set your heart on fire" title="Gargi wants you to go over the journey of a thousand emotions in Your Lie In April " /></a>
 
-<a href="https://github.com/Gargi212Roy"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gargi212Roy&theme=radical&title_color=ff3068"></a>
+<a href="https://github.com/Gargi212Roy"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Gargi212Roy&theme=radical&title_color=ff3068"></a>
 
-<a href="#"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi212Roy&layout=compact&theme=radical" /></a>
+<a href="#"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi212Roy&layout=compact&theme=radical" /></a>
 
 ## 📘 My top open source projects
 
