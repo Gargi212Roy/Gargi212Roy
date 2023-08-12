@@ -9,54 +9,56 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/perales212kris/"><img width="32px" alt="Instagram" src="https://i.imgur.com/UOFSxOn.png"/></a>
 </p>
-
+ 
 <br/>
-
+ 
 <p>
   
-Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn new things about Web Development, who loves **Anime**, there's a different kind of beauty in it (⁠✿⁠ ⁠♡⁠‿⁠♡⁠) and an all time foodie 🍱.
-
+Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn new things about Web Development, who loves **Anime**, there's a different kind of beauty in it (⁠✿⁠ ⁠♡⁠‿⁠♡⁠) and an all time foodie 🍱.
+ 
 <div>
 <details>
   <summary>👩 More about me</summary>
-
-- 🔭 I’m currently working on **making and designing responsive UIs**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👥 I’m looking to collaborate on **Front-End Development** Projects
-
+ 
+- 🏢 I'm currently employed as a **Front-End Developer Intern** at **Lean Platform Technologies**
+ 
+- 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs**
+ 
+- 🌱 I’m currently learning **Backend using Node, Express & MongoDB**
+ 
+- 👥 I’m looking to collaborate on **Front-End Development, Back-End Development & Full Stack** Projects
+ 
 - 🤔 I’m looking for help with **finding great developers to collab from whom I can learn**
-
+ 
 - 💬 Ask me about Animes (⁠ᗒ⁠ᗩ⁠ᗕ⁠) and restaurants of different cuisines < and occasionally about **Web Development** and **C++** too, probably (⁠◠⁠‿⁠◕⁠) />
-
+ 
 - 👩‍🦰 Pronouns: She/her
-
+ 
 - ⚡ Fun fact: Vacation calories don't count.😉
-
+ 
 </details>
   
 </p>
-
+ 
 ## 🔥 Github Stats
-
+ 
 <a href="https://manganato.com/manga-ta955935"><img align="right" width="44%" src="https://i.imgur.com/2X7XzEY.jpeg" alt="Miyazono Kaori " title="Gargi wants you to go on a journey of a thousand emotions in Your lie in April" /></a>
-
+ 
 <a href="https://github.com/Gargi212Roy"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Gargi212Roy&theme=radical&title_color=ff3068"></a>
-
+ 
 <a href="#"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi212Roy&layout=compact&theme=radical" /></a>
-
+ 
 ## 📘 My top open source projects
-
+ 
 <p align="left">
   <a href="https://github.com/Gargi212Roy/Github-Finder"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Github-Finder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/Expense-Tracker"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/portfolio_website"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=portfolio_website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/Horimiya"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Horimiya&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
-
+ 
 <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gargi212Roy&theme=dark" /></a>
-
+ 
 <p align="center">
   <a href="https://github.com/Gargi212Roy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/Gargi212Roy?tab=repositories&sort=stargazers">
