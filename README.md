@@ -20,7 +20,7 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
 <details>
   <summary>👩 More about me</summary>
  
-- 🏢 I'm currently employed as a **Front-End Developer Intern** at **Lean Platform Technologies**
+- 🏢 I'm currently employed as a **Software Developer Intern** at **Sustainiam**
  
 - 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs**
  
@@ -42,7 +42,7 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
  
 ## 🔥 Github Stats
  
-<a href="https://manganato.com/manga-ta955935"><img align="right" width="44%" src="https://i.imgur.com/2X7XzEY.jpeg" alt="Miyazono Kaori " title="Gargi wants you to go on a journey of a thousand emotions in Your lie in April" /></a>
+<a href="https://manganato.com/manga-ta955935"><img align="right" width="40%" src="https://wallpapercave.com/dwp1x/wp2510558.jpg" alt="Miyazono Kaori " title="Gargi wants you to go on a journey of a thousand emotions in Your lie in April" /></a>
  
 <a href="https://github.com/Gargi212Roy"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Gargi212Roy&theme=radical&title_color=ff3068"></a>
  
