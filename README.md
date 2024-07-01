@@ -22,15 +22,15 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
  
 - 🏢 I'm currently employed as a **Software Developer Intern** at **Sustainiam**
  
-- 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs**
+- 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs & building backends**
  
-- 🌱 I’m currently learning **Backend using Node, Express & MongoDB**
+- 🌱 I’m currently learning **SpringBoot**
  
 - 👥 I’m looking to collaborate on **Front-End Development, Back-End Development & Full Stack** Projects
  
 - 🤔 I’m looking for help with **finding great developers to collab from whom I can learn**
  
-- 💬 Ask me about Animes (⁠ᗒ⁠ᗩ⁠ᗕ⁠) and restaurants of different cuisines < and occasionally about **Web Development** and **C++** too, probably (⁠◠⁠‿⁠◕⁠) />
+- 💬 Ask me about Animes (⁠ᗒ⁠ᗩ⁠ᗕ⁠) and restaurants of different cuisines < and occasionally about **Web Development** and **Java** too, probably (⁠◠⁠‿⁠◕⁠) />
  
 - 👩‍🦰 Pronouns: She/her
  
@@ -52,7 +52,7 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
  
 <p align="left">
   <a href="https://github.com/Gargi212Roy/Github-Finder"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Github-Finder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/Gargi212Roy/Expense-Tracker"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Gargi212Roy/Marvel-Comics"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Marvel-Comics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/portfolio_website"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=portfolio_website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/Horimiya"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Horimiya&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
