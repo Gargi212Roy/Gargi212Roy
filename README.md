@@ -19,23 +19,22 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
 <div>
 <details>
   <summary>👩 More about me</summary>
- 
-- 🏢 I'm currently employed as a **Software Developer Intern** at **Sustainiam**
- 
+
+
 - 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs & building backends**
- 
-- 🌱 I’m currently learning **SpringBoot**
- 
+
+- 🌱 I’m currently learning **Golang**
+
 - 👥 I’m looking to collaborate on **Front-End Development, Back-End Development & Full Stack** Projects
- 
+
 - 🤔 I’m looking for help with **finding great developers to collab from whom I can learn**
- 
+
 - 💬 Ask me about Animes (⁠ᗒ⁠ᗩ⁠ᗕ⁠) and restaurants of different cuisines < and occasionally about **Web Development** and **Java** too, probably (⁠◠⁠‿⁠◕⁠) />
- 
+
 - 👩‍🦰 Pronouns: She/her
- 
+
 - ⚡ Fun fact: Vacation calories don't count.😉
- 
+
 </details>
   
 </p>
