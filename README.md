@@ -14,12 +14,11 @@
  
 <p>
   
-Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn new things about Web Development, who loves **Anime**, there's a different kind of beauty in it (⁠✿⁠ ⁠♡⁠‿⁠♡⁠) and an all time foodie 🍱.
+Konichiwa 👋, I am **Gargi**, a Full Stack Developer. I'm enthusiastic to learn new things about Web Development, who loves **Anime**, there's a different kind of beauty in it (⁠✿⁠ ⁠♡⁠‿⁠♡⁠) and an all time foodie 🍱.
  
 <div>
 <details>
   <summary>👩 More about me</summary>
-
 
 - 🔭 I’m currently working on **mastering Full Stack Project with Emersive and Responsive UIs & building backends**
 
@@ -51,7 +50,7 @@ Konichiwa 👋, I am **Gargi**, a Front-End Developer. I'm enthusiastic to learn
  
 <p align="left">
   <a href="https://github.com/Gargi212Roy/Github-Finder"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Github-Finder&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/Gargi212Roy/Marvel-Comics"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Marvel-Comics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Gargi212Roy/Meedle-Your-Life"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Meedle-Your-Life&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/portfolio_website"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=portfolio_website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/Gargi212Roy/Horimiya"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Gargi212Roy&repo=Horimiya&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
